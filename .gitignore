@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.swiftpm/
+node_modules/
+dist/
+dist-native/
+.playwright-cli/
+output/playwright/
+tmp/
